@@ -57,9 +57,9 @@ return response($svg, 200, array('Content-type' => 'image/svg+xml'));
 
 
 ## license:
-The MIT License (MIT). Please see [License File](https://github.com/dev-arindam-roy/Laravel-Page-Loader-Package-/blob/master/LICENSE) for more information.
+The MIT License (MIT). Please see [License File](https://github.com/dev-arindam-roy/laravel-svg-package/blob/master/LICENSE) for more information.
 
 ## Post Issues: if found any
-If have any issue please [write me](https://github.com/dev-arindam-roy/Laravel-Page-Loader-Package-/issues).
+If have any issue please [write me](https://github.com/dev-arindam-roy/laravel-svg-package/issues).
 
 
